@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "hyperscript": "^2.0.2",
     "hyperscript-helpers": "^3.0.3",
     "tailwindcss": "^1.2.0",
     "virtual-dom": "^2.1.1"
