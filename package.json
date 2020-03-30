@@ -1,0 +1,15 @@
+{
+  "name": "fp-app",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hyperscript": "^2.0.2",
+    "hyperscript-helpers": "^3.0.3",
+    "tailwindcss": "^1.2.0",
+    "virtual-dom": "^2.1.1"
+  },
+  "devDependencies": {
+    "sass": "^1.26.3"
+  }
+}
